@@ -590,3 +590,7 @@ https://mustafa-power-bi-portfolio.mustafa-mohjoob.chatgpt.site/
 LinkedIn
 
 www.linkedin.com/in/mustafa-mahjoob
+
+## Live Power BI Dashboard
+
+[View Interactive Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiNTAzOTEyOTktNzUwNS00MWNlLTgwOGUtNTgxMGViNjM1NGExIiwidCI6IjBlYjRjMjE0LWI5NWQtNDM0Ny1hMTg5LTc1YjBlMGIzMGUzZiJ9&pageName=60bf7d6151472280ceb7])
