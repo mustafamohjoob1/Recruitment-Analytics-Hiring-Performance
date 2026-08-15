@@ -521,23 +521,23 @@ Recruitment-Analytics-Hiring-Performance
 
 Landing Page
 
-![Landing Page](Screenshots/Landing.jpg)
+![Landing Page](Landing.jpg)
 
 Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.jpg)
+![Executive Overview](Executive%20Overview.jpg)
 
 Recruitment Funnel
 
-![Recruitment Funnel](Screenshots/Recruitment_Funnel.jpg)
+![Recruitment Funnel](Recruitment%20Funnel.jpg)
 
 Recruiter Performance
 
-![Recruiter Performance](Screenshots/Recruiter_Performance.jpg)
+![Recruiter Performance](Recruitment%20Performance.jpg)
 
 Candidate Details
 
-![Candidate Details](Screenshots/Candidate_Details.jpg)
+![Candidate Details](Candidate%20Details.jpg)
 
 Remove the code formatting around each image line after your screenshot files are uploaded if you want GitHub to display the images directly.
 
