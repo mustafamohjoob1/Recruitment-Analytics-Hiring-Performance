@@ -525,7 +525,7 @@ Landing Page
 
 Executive Overview
 
-![Executive Overview](Executive%20Overview.jpg)
+![Executive Overview](Executive%20overview.jpg)
 
 Recruitment Funnel
 
