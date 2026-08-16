@@ -539,24 +539,6 @@ Candidate Details
 
 ![Candidate Details](Candidate%20Details.jpg)
 
-Remove the code formatting around each image line after your screenshot files are uploaded if you want GitHub to display the images directly.
-
-⸻
-
-<h2>Live Power BI Dashboard</h2>
-
-Replace the link below with your published Power BI Service link.
-
-PASTE YOUR POWER BI LIVE REPORT LINK HERE
-
-⸻
-
-<h2>Repository</h2>
-
-GitHub Repository
-
-PASTE YOUR GITHUB REPOSITORY LINK HERE
-
 ⸻
 
 <h2>Project Purpose</h2>
